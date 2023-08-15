@@ -1,2 +1,8 @@
 # joao-pedro
-Meu nome é João Pedro e estudo no Colégio Estadual do Paraná.
+
+Bem-Vindo! Este é o meu perfil
+
+-Meu nome é João Pedro.
+
+-Estudo no Colégio Estadual do Paraná.
+
